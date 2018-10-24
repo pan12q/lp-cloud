@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lp-cloud-feign" />
+        <module name="lp-cloud-gateway" />
+        <module name="lp-cloud-register" />
+        <module name="lp-cloud-register-two" />
+        <module name="lp-cloud-ribbon" />
+        <module name="lp-cloud-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lp-cloud-feign" target="1.8" />
+      <module name="lp-cloud-gateway" target="1.8" />
+      <module name="lp-cloud-register" target="1.8" />
+      <module name="lp-cloud-register-two" target="1.8" />
+      <module name="lp-cloud-ribbon" target="1.8" />
+      <module name="lp-cloud-server" target="1.8" />
+      <module name="lp-cloud-simple" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

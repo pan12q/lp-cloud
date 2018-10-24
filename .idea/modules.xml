@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lp-cloud-feign/lp-cloud-feign.iml" filepath="$PROJECT_DIR$/lp-cloud-feign/lp-cloud-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lp-cloud-gateway/lp-cloud-gateway.iml" filepath="$PROJECT_DIR$/lp-cloud-gateway/lp-cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lp-cloud-register/lp-cloud-register.iml" filepath="$PROJECT_DIR$/lp-cloud-register/lp-cloud-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lp-cloud-register-two/lp-cloud-register-two.iml" filepath="$PROJECT_DIR$/lp-cloud-register-two/lp-cloud-register-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lp-cloud-ribbon/lp-cloud-ribbon.iml" filepath="$PROJECT_DIR$/lp-cloud-ribbon/lp-cloud-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lp-cloud-server/lp-cloud-server.iml" filepath="$PROJECT_DIR$/lp-cloud-server/lp-cloud-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lp-cloud-simple.iml" filepath="$PROJECT_DIR$/lp-cloud-simple.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="importOrderConfigFilePath" value="E:/技术资料/oneplus_codeformatter.xml" />
+        <option name="pathToConfigFileJava" value="E:/技术资料/oneplus_codeformatter.xml" />
+        <option name="selectedJavaProfile" value="oneplus-java-standard" />
+      </ProjectSpecificProfile>
+    </option>
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1441935345716" />
+        <option name="importOrderConfigFilePath" value="E:/idea/setting/oneplus_codeformatter.xml" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="name" value="default" />
+        <option name="pathToConfigFileJava" value="E:/idea/setting/oneplus_codeformatter.xml" />
+        <option name="selectedJavaProfile" value="oneplus-java-standard" />
+      </Settings>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/lp-cloud-server/pom.xml" />
+        <option value="$PROJECT_DIR$/lp-cloud-register/pom.xml" />
+        <option value="$PROJECT_DIR$/lp-cloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/lp-cloud-register-two/pom.xml" />
+        <option value="$PROJECT_DIR$/lp-cloud-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/lp-cloud-feign/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
