@@ -1,11 +1,9 @@
 package com.lp.cloud.gateway.utils;
 
-import com.netflix.zuul.ZuulFilter;
 import com.netflix.zuul.context.RequestContext;
 import com.netflix.zuul.exception.ZuulException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.stereotype.Component;
 
 import javax.servlet.http.HttpServletRequest;
 
@@ -14,8 +12,8 @@ import javax.servlet.http.HttpServletRequest;
  * @version V1.0
  * @date 2018/10/24 16:16
  */
-@Component
-public class MyFilter extends ZuulFilter {
+//@Component
+public class MyFilter /*extends ZuulFilter*/ {
 	private static Logger logger = LoggerFactory.getLogger(MyFilter.class);
 
 	/**
@@ -26,7 +24,7 @@ public class MyFilter extends ZuulFilter {
 	 * error：发送错误调用
 	 * @return String
 	 */
-	@Override
+	//@Override
 	public String filterType() {
 		return "pre";
 	}
@@ -35,7 +33,7 @@ public class MyFilter extends ZuulFilter {
 	 * 过滤的顺序
 	 * @return int
 	 */
-	@Override
+	//@Override
 	public int filterOrder() {
 		return 0;
 	}
@@ -44,7 +42,7 @@ public class MyFilter extends ZuulFilter {
 	 * 可以写逻辑判断，是否要过滤，本文true,永远过滤
 	 * @return boolean
 	 */
-	@Override
+	//@Override
 	public boolean shouldFilter() {
 		return true;
 	}
@@ -54,7 +52,7 @@ public class MyFilter extends ZuulFilter {
 	 * @return Object
 	 * @throws ZuulException 异常
 	 */
-	@Override
+	//@Override
 	public Object run() throws ZuulException {
 		RequestContext ctx = RequestContext.getCurrentContext();
 		HttpServletRequest request = ctx.getRequest();

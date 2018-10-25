@@ -42,6 +42,7 @@
         <option value="$PROJECT_DIR$/lp-cloud-register-two/pom.xml" />
         <option value="$PROJECT_DIR$/lp-cloud-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/lp-cloud-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/lp-cloud-config-server/pom.xml" />
       </list>
     </option>
   </component>

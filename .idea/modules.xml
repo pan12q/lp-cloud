@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/lp-cloud-config-server/lp-cloud-config-server.iml" filepath="$PROJECT_DIR$/lp-cloud-config-server/lp-cloud-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/lp-cloud-feign/lp-cloud-feign.iml" filepath="$PROJECT_DIR$/lp-cloud-feign/lp-cloud-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/lp-cloud-gateway/lp-cloud-gateway.iml" filepath="$PROJECT_DIR$/lp-cloud-gateway/lp-cloud-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/lp-cloud-register/lp-cloud-register.iml" filepath="$PROJECT_DIR$/lp-cloud-register/lp-cloud-register.iml" />
