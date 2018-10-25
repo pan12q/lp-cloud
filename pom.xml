@@ -32,6 +32,7 @@
         <module>lp-cloud-gateway</module>
         <module>lp-cloud-ribbon</module>
         <module>lp-cloud-feign</module>
+        <module>lp-cloud-config-server</module>
     </modules>
 
     <dependencies>
