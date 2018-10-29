@@ -13,6 +13,7 @@
         <module name="lp-cloud-register-two" />
         <module name="lp-cloud-ribbon" />
         <module name="lp-cloud-server" />
+        <module name="lp-cloud-zipkin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +25,7 @@
       <module name="lp-cloud-ribbon" target="1.8" />
       <module name="lp-cloud-server" target="1.8" />
       <module name="lp-cloud-simple" target="1.8" />
+      <module name="lp-cloud-zipkin" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

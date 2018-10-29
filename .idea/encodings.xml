@@ -9,6 +9,7 @@
     <file url="file://$PROJECT_DIR$/lp-cloud-register-two" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lp-cloud-ribbon" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lp-cloud-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lp-cloud-zipkin" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

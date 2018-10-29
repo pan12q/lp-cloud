@@ -43,6 +43,7 @@
         <option value="$PROJECT_DIR$/lp-cloud-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/lp-cloud-feign/pom.xml" />
         <option value="$PROJECT_DIR$/lp-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/lp-cloud-zipkin/pom.xml" />
       </list>
     </option>
   </component>
