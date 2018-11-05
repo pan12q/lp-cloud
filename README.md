@@ -1,5 +1,4 @@
 # lp-cloud
-lp-cloud  
 lp-cloud-server=8861  
 lp-cloud-register=8862  
 lp-cloud-register-two=8863  
